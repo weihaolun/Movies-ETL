@@ -1,6 +1,7 @@
 .DS_Store
 config.py
 ratings.csv
+movies_ETL_project.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
